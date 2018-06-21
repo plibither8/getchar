@@ -42,7 +42,7 @@
     "read_nonblock",
     "keypressed"
   ],
-  "author": "plibither8",
+  "author": "Mihir Chaturvedi, plibither8",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/plibither8/getchar/issues"
