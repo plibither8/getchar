@@ -1,0 +1,53 @@
+{
+  "name": "getchar",
+  "version": "0.0.1",
+  "description": "getchar is a module to that gets a character from the stdin. Similar to `getch` and `getchar` in C and C++.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plibither8/getchar.git"
+  },
+  "keywords": [
+    "key",
+    "keyboard",
+    "getch",
+    "getc",
+    "getchar",
+    "rl",
+    "peek",
+    "scanf",
+    "sscanf",
+    "readkey",
+    "readln",
+    "yesno",
+    "prompt",
+    "yn",
+    "kbhit",
+    "keypress",
+    "getkey",
+    "get_key",
+    "read_ch",
+    "lastkey",
+    "read",
+    "getkeycode",
+    "keycode",
+    "receivechar",
+    "stdin",
+    "readline",
+    "readch",
+    "inkey",
+    "read_nonblock",
+    "keypressed"
+  ],
+  "author": "plibither8",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/plibither8/getchar/issues"
+  },
+  "homepage": "https://github.com/plibither8/getchar#readme",
+  "dependencies": {
+  }
+}
